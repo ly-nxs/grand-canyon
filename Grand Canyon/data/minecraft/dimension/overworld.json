@@ -15,11 +15,11 @@
           "color": 3376467
         },
         {
-          "biome": "terralith:warm_river",
+          "biome": "wythers:badlands_river",
           "color": 9671571
         },
         {
-          "biome": "terralith:white_mesa",
+          "biome": "wythers:badlands_canyon",
           "color": 11445578
         },
         {
@@ -27,11 +27,11 @@
           "color": 9437331
         },
         {
-          "biome": "terralith:shield",
+          "biome": "minecraft:wooded_badlands",
           "color": 48668
         },
         {
-          "biome": "terralith:shield_clearing",
+          "biome": "wythers:chaparral",
           "color": 16773376
         },
         {
@@ -47,7 +47,7 @@
           "color": 36003
         },
         {
-          "biome": "terralith:shrubland",
+          "biome": "wythers:scrubland",
           "color": 5517589
         }
 
