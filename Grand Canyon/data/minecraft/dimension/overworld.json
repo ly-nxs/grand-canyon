@@ -23,11 +23,11 @@
           "color": 11445578
         },
         {
-          "biome": "terralith:bryce_canyon",
+          "biome": "minecraft:wooded_badlands",
           "color": 9437331
         },
         {
-          "biome": "minecraft:wooded_badlands",
+          "biome": "wythers:ayers_rock",
           "color": 48668
         },
         {
@@ -35,15 +35,15 @@
           "color": 16773376
         },
         {
-          "biome": "terralith:snowy_shield",
+          "biome": "wythers:autumnal_birch_forest",
           "color": 4278776
         },
         {
-          "biome": "terralith:blooming_plateau",
+          "biome": "wythers:autumnal_forest_edge",
           "color": 10682368
         },
         {
-          "biome": "terralith:brushland",
+          "biome": "wythers:pine_barrens",
           "color": 36003
         },
         {
