@@ -62,7 +62,7 @@
           "color": 8647554
         },
         {
-          "biome": "terralith:terralith:blooming_plateau",
+          "biome": "terralith:blooming_plateau",
           "color": 12485363
         },
         {
@@ -366,8 +366,6 @@
       }
     }
   },
-    "ore_veins_enabled": true,
-    "sea_level": 63,
         "spawn_target": [
             {
                 "continentalness": [
