@@ -26,7 +26,7 @@
           "color": 9437331
         },
         {
-          "biome": "wythers:tundra",
+          "biome": "wythers:snowy_tundra",
           "color": 48668
         },
         {
@@ -34,7 +34,7 @@
           "color": 16773376
         },
         {
-          "biome": "wythers:maple_mountains",
+          "biome": "wythers:cool_stony_peaks",
           "color": 4278776
         },
         {
@@ -42,7 +42,7 @@
           "color": 10682368
         },
         {
-          "biome": "terralith:cold_shrubland",
+          "biome": "terralith:alpine_highlands",
           "color": 36003
         },
         {
@@ -50,7 +50,7 @@
           "color": 5517589
         },
         {
-          "biome": "terralith:alpine_highlands",
+          "biome": "minecraft:birch_forest",
           "color": 16750384
         },
         {
@@ -62,7 +62,7 @@
           "color": 8647554
         },
         {
-          "biome": "terralith:blooming_plateau",
+          "biome": "minecraft:plains",
           "color": 12485363
         },
         {
