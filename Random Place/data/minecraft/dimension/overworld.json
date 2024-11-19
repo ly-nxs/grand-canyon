@@ -14,11 +14,11 @@
           "color": 3376467
         },
         {
-          "biome": "wythers:snowy_peaks",
+          "biome": "terralith:warm_river",
           "color": 9671571
         },
         {
-          "biome": "minecraft:snowy_slopes",
+          "biome": "minecraft:river",
           "color": 11445578
         },
         {
@@ -26,7 +26,7 @@
           "color": 9437331
         },
         {
-          "biome": "wythers:snowy_tundra",
+          "biome": "wythers:autumnal_forest_edge",
           "color": 48668
         },
         {
@@ -34,7 +34,7 @@
           "color": 16773376
         },
         {
-          "biome": "wythers:cool_stony_peaks",
+          "biome": "wythers:harvest_fields",
           "color": 4278776
         },
         {
@@ -46,11 +46,11 @@
           "color": 36003
         },
         {
-          "biome": "terralith:snowy_maple_forest",
+          "biome": "wythers:tibesti_mountains",
           "color": 5517589
         },
         {
-          "biome": "minecraft:birch_forest",
+          "biome": "wythers:wistman_woods",
           "color": 16750384
         },
         {
@@ -58,11 +58,11 @@
           "color": 13303600
         },
         {
-          "biome": "terralith:valley_clearing",
+          "biome": "terralith:yosemite_lowlands",
           "color": 8647554
         },
         {
-          "biome": "minecraft:plains",
+          "biome": "wythers:aspen_crags",
           "color": 12485363
         },
         {
